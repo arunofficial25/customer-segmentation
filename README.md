@@ -7,7 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 </div>
-> Unsupervised Machine Learning | K-Means Clustering | Python · Scikit-learn · Excel
+
+Unsupervised Machine Learning | K-Means Clustering | Python · Scikit-learn · Excel
 
 ---
 
